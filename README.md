@@ -18,4 +18,4 @@
                           other -> Invalid day id
 
 
-<img src="https://user-images.githubusercontent.com/25991597/89605754-9a014c80-d86e-11ea-9feb-f553eb7e7c6f.PNG" width="700" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/89678497-8fd36280-d8ef-11ea-93af-151fd37b4021.PNG" width="700" height="400" />
